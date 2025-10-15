@@ -1,5 +1,5 @@
 {
-  "name": "template-for-typescript-projects",
+  "name": "monitoring-ts",
   "scripts": {
     "clean": "rimraf dist",
     "build": "tsc",
